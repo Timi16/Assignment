@@ -1,0 +1,18 @@
+Total Votes by Party
+Party
+APNI        49081
+Con       5815132
+DUP        209925
+Green      195162
+Ind        248572
+LD        3608321
+Lab      17401690
+PC         164929
+RUK        206592
+SDLP        81849
+SF         311596
+SNP        398434
+Spk         33964
+TUV         41185
+UUP         42908
+Name: Votes, dtype: int64
